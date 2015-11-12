@@ -7,9 +7,10 @@ background-color: ;
 
 .Header{
 
-margin: -10px -10px auto -10px;
-background-color: black;
-height: 100px;
+margin: -30px -10px auto -10px;
+background-color: #b30000;
+height: 130px;
+border-radius: 30px;
 
 
 }
@@ -35,6 +36,7 @@ span{
 
     /** Make it fit tightly around it's children */
     display: inline-block;
+
 }
 
 .dropdown .dropdown-menu {
@@ -50,6 +52,7 @@ span{
 .dropdown {
     position: relative;
     display: inline-block;
+
 }
 
 .dropdown .dropdown-menu {
@@ -78,6 +81,7 @@ span{
     padding: 0.4em 0.8em;
     font-size: 1em;
     width:90px;
+    margin: 0px 0px 0px 0px;
 }
 
 /** List Item Styles **/
@@ -94,6 +98,42 @@ span{
     background: #BBBBBB;
 }
 .dropdown{
-	margin: 35px 10px 230px 120px;
+	margin: 35px 10px 230px 500px;
 
+}
+#right-screw {
+    position: absolute;
+    top: 40px;
+    right: 30px;
+    height: 13px;
+    width: 13px;
+    background: transparent url("../images/nav-right-under-screw.jpg") right top no-repeat;
+}
+#right-arrow {
+    position: absolute;
+    top: 21px;
+    right: 18px;
+    height: 61px;
+    width: 77px;
+    background: transparent url("../images/nav-right-under-arrow.jpg") right top no-repeat;
+
+}
+
+#right-screw2 {
+    position: absolute;
+    top: 40px;
+    right: 1200px;
+    height: 13px;
+    width: 13px;
+    background: transparent url("../images/nav-right-under-screw.jpg") right top no-repeat;
+    transform: rotate(180deg); 
+}
+#right-arrow2 {
+    position: absolute;
+    top: 21px;
+    right: 1200px;
+    height: 61px;
+    width: 77px;
+    background: transparent url("../images/nav-right-under-arrow.jpg") right top no-repeat;
+    
 }
