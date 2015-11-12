@@ -122,18 +122,18 @@ span{
 #right-screw2 {
     position: absolute;
     top: 40px;
-    right: 1200px;
+    right: 1800px;
     height: 13px;
     width: 13px;
     background: transparent url("../images/nav-right-under-screw.jpg") right top no-repeat;
-    transform: rotate(180deg); 
+    -webkit-transform: rotate(180deg);
 }
 #right-arrow2 {
     position: absolute;
     top: 21px;
-    right: 1200px;
+    right: 100px;
     height: 61px;
     width: 77px;
     background: transparent url("../images/nav-right-under-arrow.jpg") right top no-repeat;
-    
+    -webkit-transform: rotate(180deg);
 }
