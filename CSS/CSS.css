@@ -1,7 +1,12 @@
+body{
+background-color: #ffa64d;
+
+}
+
 .Header{
 
 margin: -10px -10px auto -10px;
-background-color: grey;
+background-color: black;
 height: 100px;
 
 
@@ -14,10 +19,32 @@ input{
 	
 }
 span{
-	margin: -10px 100px 0px 0px;
+	
+
+}
+.search-search-box{
+	
 
 }
 
+
+.dropdown {
+    position: relative;
+
+    /** Make it fit tightly around it's children */
+    display: inline-block;
+}
+
+.dropdown .dropdown-menu {
+    position: absolute;
+
+   
+    top: 100%;
+    left: 0px;
+
+    /** Allow no empty space between this and .dropdown */
+    margin: 0;
+}
 .dropdown {
     position: relative;
     display: inline-block;
@@ -29,7 +56,7 @@ span{
     display: none;
     margin: 0;
 
-   
+
 
     list-style: none; /** Remove list bullets */
     width: 100%; /** Set the width to 100% of it's parent */
@@ -45,10 +72,10 @@ span{
     background: #FF6223;
     color: #FFFFFF;
     border: none;
-    margin: 35px 10px 100px 10px;
+    margin: 0px;
     padding: 0.4em 0.8em;
     font-size: 1em;
-    width:80px;
+    width:90px;
 }
 
 /** List Item Styles **/
@@ -64,11 +91,7 @@ span{
 .dropdown a:hover {
     background: #BBBBBB;
 }
-
-.search-search-box{
-	position:fixed;
-	margin: 10px 10px 100px 10px;
-
-
+.dropdown{
+	margin: 35px 10px 230px 120px;
 
 }
