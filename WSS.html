@@ -13,14 +13,23 @@
 </div>
 
 
-<div class="Header">
+
 
 <style type="text/css">
     
 </style>
 </head>
 <body>
-	   <div id="right-screw"></div>
+	  <div class="Header">
+       <div class="search-search-box">
+                                    <span class="close sprite-bg"></span>
+                                    <input type="text" id="searchQueryHeader" class="auto-complete-search" autocomplete="off" spellcheck="false" autocorrect="false" placeholder="Sök Kort, Klass" data-ng-model="autoComplete.q" data-ng-keyup="autoComplete.refresh()">
+                                    <input id="Search" class="searchInput" type="submit" value="Sök" data-ng-click="autoComplete.refresh()">
+                </span>
+
+     </div> 
+
+       <div id="right-screw"></div>
        <div id="right-arrow"></div>
        <div id="right-screw2"></div>
        <div id="right-arrow2"></div>
@@ -42,18 +51,11 @@
         <li><a href="#about">Rogue</a></li>
         <li><a href="#contact">Druid</a></li>
     </ul>
-</div>
+</div></div>
 
 
 
-<div class="search-search-box">
-                                    <span class="close sprite-bg"></span>
-                                    <input type="text" id="searchQueryHeader" class="auto-complete-search" autocomplete="off" spellcheck="false" autocorrect="false" placeholder="Sök kort, klass" data-ng-model="autoComplete.q" data-ng-keyup="autoComplete.refresh()">
-<span class="submit">
-    <input id="Search" class="searchInput" type="submit" value="Sök" data-ng-click="autoComplete.refresh()">
-</span>
 
-                                </div> </div class="Header">
 
 </body>
 
