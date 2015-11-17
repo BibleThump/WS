@@ -19,20 +19,17 @@ box-shadow: 0px 10px 5px #ff3300;
 input{
 
 	height:30px;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 0px;
 	
 	
 }
-span{
-	
 
-}
 
 span .close-sprite-bg{
 }
 .search-search-box{
-	margin-left: 800px;
+	margin-left: 900px;
     margin-top: 40px;
 }
 
@@ -58,6 +55,7 @@ span .close-sprite-bg{
 
 }
 
+
 .dropdown .dropdown-menu {
     position: absolute;
     top: 100%;
@@ -77,14 +75,14 @@ span .close-sprite-bg{
 
 /** Button Styles **/
 .dropdown button {
-    background: #FF6223;
+    background: #b30000;
     color: #FFFFFF;
     border: none;
    
     padding: 0.4em 0.8em;
     font-size: 1em;
     width:90px;
-    margin: -60px 10px 0px 0px;
+    margin: -10px 10px 0px 0px;
     size:;
 
 }
