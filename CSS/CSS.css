@@ -64,7 +64,7 @@ span .close-sprite-bg{
 
 
 #test{
-    margin-left:150px;
+    margin-left:250px;
     margin-top:-50px;
 }
 
@@ -160,3 +160,4 @@ span .close-sprite-bg{
     background: transparent url("../images/nav-right-under-arrow.jpg") right top no-repeat;
     -webkit-transform: rotate(180deg);
 }
+
