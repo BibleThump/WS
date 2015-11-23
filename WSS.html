@@ -6,16 +6,17 @@
 </head>	
 
 <body>
-<div class="Header">
-<div class="search search-box">
-                                    <span class="close sprite-bg"></span>
-                                    <input type="text" id="searchQueryHeader" class="auto-complete-search" autocomplete="off" spellcheck="false" autocorrect="false" placeholder="Sök kort, klass" data-ng-model="autoComplete.q" data-ng-keyup="autoComplete.refresh()">
-<span class="submit">
-    <input id="Search" class="searchInput" type="submit" value="" data-ng-click="autoComplete.refresh()">
-</span>
+<video id="ddd" autoplay="autoplay" loop="INFINITE" onmouseover= "changeGif()" onmouseout= "changeImage()" style="display:none" src="images/warrior/grommash_hellscream_img.png">
+<img id="eee" onmouseover="changeImage()" src="images/warrior/grommash_hellscream_img.png">
+<script type="text/javascript">
+	function changeGif(){
+		document.getElementById("ddd").src="images/warrior/grommash_hellscream_gif.webm";
+	}
 
-                                </div> </div>
-
+	function changeImage(){
+		document.getElementById("ddd").src="images/warrior/grommash_hellscream_img.png";
+	}
+</script>
 </body>
 
 </html>
