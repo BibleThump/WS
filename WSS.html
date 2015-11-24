@@ -8,17 +8,21 @@
 
 	<body>
 		<div class="grommash">
-			<video id="grommash" width="286" height="395" autoplay loop 
-			onmouseover= "changeGif()" onmouseout= "changeImage()"> 
-			</video>
+
 			<script type="text/javascript">
 				function changeGif(){
 					document.getElementById("grommash").src="images/warrior/grommash_hellscream_gif.webm";
 				}
+
 				function changeImage(){
 					document.getElementById("grommash").src="";
 				}
-			</script>
+				</script>
+				
+			<video 	id="grommash" width="286" height="395" autoplay loop 
+					onmouseover= "changeGif()" onmouseout= "changeImage()"> 
+			</video>
+			
 		</div>
 	</body>
 
