@@ -1,11 +1,6 @@
-.Header{
-
-border: 2px solid black;
-height: 50px;
-}
-
-input{
-
-	height:30px
-	
+.grommash{
+	height:396px;
+	width:270px;
+	background:url("../images/warrior/grommash_hellscream_img.png");
+	z-index:auto;
 }

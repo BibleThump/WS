@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="sv">
-<meta charset="utf-8">
-<head>
+	
+	<head>
+		<meta charset="utf-8">
 		<link rel="stylesheet" href="CSS/CSS.css" />
-</head>	
+	</head>	
 
-<body>
-<video id="ddd" autoplay="autoplay" loop="INFINITE" onmouseover= "changeGif()" onmouseout= "changeImage()" style="display:none" src="images/warrior/grommash_hellscream_img.png">
-<img id="eee" onmouseover="changeImage()" src="images/warrior/grommash_hellscream_img.png">
-<script type="text/javascript">
-	function changeGif(){
-		document.getElementById("ddd").src="images/warrior/grommash_hellscream_gif.webm";
-	}
-
-	function changeImage(){
-		document.getElementById("ddd").src="images/warrior/grommash_hellscream_img.png";
-	}
-</script>
-</body>
+	<body>
+		<div class="grommash">
+			<video id="grommash" width="286" height="395" autoplay loop 
+			onmouseover= "changeGif()" onmouseout= "changeImage()"> 
+			</video>
+			<script type="text/javascript">
+				function changeGif(){
+					document.getElementById("grommash").src="images/warrior/grommash_hellscream_gif.webm";
+				}
+				function changeImage(){
+					document.getElementById("grommash").src="";
+				}
+			</script>
+		</div>
+	</body>
 
 </html>
