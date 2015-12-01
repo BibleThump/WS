@@ -99,7 +99,10 @@ span .close-sprite-bg{
 /** Button Styles **/
 .dropdown button {
     background: transparent;
-    color: #FFFF66;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
     border: none;
 
    
