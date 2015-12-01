@@ -7,23 +7,18 @@
 	</head>	
 
 	<body>
-		<div class="grommash">
+		<img id="eee"autoplay loop src="images/warrior/grommash_hellscream_img.png" onmouseover="bytgif()" class="d">
+		<video id="rrr" autoplay loop src="" onmouseout="bytbild()"></video>
+		<script type="text/javascript">
+			function bytgif(){
+				document.getElementById("eee").src="";
+ 				document.getElementById("rrr").src="images/warrior/grommash_hellscream_gif.webm";
+			}
+			function bytbild(){
+				document.getElementById("eee").src="images/warrior/grommash_hellscream_img.png";
+ 				document.getElementById("rrr").src="";
+			}
 
-			<script type="text/javascript">
-				function changeGif(){
-					document.getElementById("grommash").src="images/warrior/grommash_hellscream_gif.webm";
-				}
-
-				function changeImage(){
-					document.getElementById("grommash").src="";
-				}
-				</script>
-				
-			<video 	id="grommash" width="286" height="395" autoplay loop 
-					onmouseover= "changeGif()" onmouseout= "changeImage()"> 
-			</video>
-			
-		</div>
+		</script>
 	</body>
-
 </html>
