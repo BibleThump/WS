@@ -1,5 +1,5 @@
 body{
-background-color: ;
+
 
 
 
@@ -8,15 +8,20 @@ background-color: ;
 .Header{
 
 margin: -40px -10px auto -10px;
-background-color: #b30000;
+background-color: #b0000;
 height: 110px;
 border-radius: 30px;
-box-shadow: 0px 10px 5px #ff3300;
+
 border-style:solid;
-border-color: #ffff66;
-border-width:3px; 
+border-color: #;
+border-width:0px; 
 
 
+}
+#HeaderBackground{
+position: absolute;
+ margin-top: -422px;
+ z-index: -1;
 }
 
 input{
@@ -29,6 +34,9 @@ input{
 }
 button{
     font-family: helvetica;
+}
+a:hover;{
+    color: white;
 }
 
 
@@ -64,8 +72,9 @@ span .close-sprite-bg{
 
 
 #test{
-    margin-left:250px;
-    margin-top:-50px;
+    margin-left:200px;
+    margin-top:-405px;
+    /** Flytta Class knappen */
 }
 
 
@@ -89,7 +98,7 @@ span .close-sprite-bg{
 
 /** Button Styles **/
 .dropdown button {
-    background: #b30000;
+    background: transparent;
     color: #FFFF66;
     border: none;
 
@@ -101,6 +110,7 @@ span .close-sprite-bg{
     size:200%;
 
 }
+
 
 /** List Item Styles **/
 .dropdown a {
@@ -126,7 +136,7 @@ span .close-sprite-bg{
 }
 #right-screw {
     position: absolute;
-    top: 35px;
+    top: 30px;
     right: 30px;
     height: 13px;
     width: 13px;
@@ -134,7 +144,7 @@ span .close-sprite-bg{
 }
 #right-arrow {
     position: absolute;
-    top: 15px;
+    top: 10px;
     right: 18px;
     height: 61px;
     width: 77px;
@@ -144,7 +154,7 @@ span .close-sprite-bg{
 
 #right-screw2 {
     position: absolute;
-    top: 40px;
+    top: 30px;
     right: 97%;
     height: 13px;
     width: 13px;
@@ -153,7 +163,7 @@ span .close-sprite-bg{
 }
 #right-arrow2 {
     position: absolute;
-    top: 11px;
+    top: 1px;
     right: 93.2%;
     height: 61px;
     width: 77px;
@@ -161,3 +171,8 @@ span .close-sprite-bg{
     -webkit-transform: rotate(180deg);
 }
 
+#Logga{
+display:block;
+margin-top: 100px;
+margin-left: auto;
+margin-right: auto;
