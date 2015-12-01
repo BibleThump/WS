@@ -113,6 +113,11 @@ span .close-sprite-bg{
     size:200%;
 
 }
+a{
+    color: #FCD144;
+    font-family: Bliz-Quadrata;
+    
+}
 
 
 /** List Item Styles **/
@@ -120,7 +125,7 @@ span .close-sprite-bg{
     display: block;
     padding: 0.2em 0.8em;
     text-decoration: none;
-    background: #CCCCCC;
+    background: #990000;
     color: #333333;
     font-size: 120%;
     text-align: center;
