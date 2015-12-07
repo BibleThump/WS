@@ -113,9 +113,11 @@ span .close-sprite-bg{
     size:200%;
 
 }
-a{
+.dropdown-menu p{
     color: #FCD144;
     font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
     
 }
 
@@ -127,7 +129,7 @@ a{
     text-decoration: none;
     background: #990000;
     color: #333333;
-    font-size: 120%;
+    font-size: 100%;
     text-align: center;
     font-family: helvetica;
 
@@ -136,7 +138,7 @@ a{
 
 /** List Item Hover Styles **/
 .dropdown a:hover {
-    background: #BBBBBB;
+    background: #ff1a1a;
 }
 .dropdown{
 	margin: 0px 10px 230px 500px;
@@ -184,3 +186,18 @@ display:block;
 margin-top: 100px;
 margin-left: auto;
 margin-right: auto;
+}
+
+#Play{
+    
+    display:block;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    size:200%;
+}
+#Play a{
+    text-decoration: none;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+}
