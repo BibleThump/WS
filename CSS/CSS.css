@@ -209,7 +209,7 @@ margin-right: auto;
 }
 
 .playForFree{
-    background: linear-gradient(to right, #961ab2, #d33bde, #961ab2);
+    background: linear-gradient(to right, #961ab2, #d850e2, #961ab2);
     border: 5px solid black;
     border-radius: 5px;
     border-color: #5d106f   ;
@@ -223,8 +223,26 @@ margin-right: auto;
     text-decoration: none;
     font-family: Bliz-Quadrata;
     font-weight: bold;
-    text-shadow: 0px 0px 0px #000000, 0px 0px 0px #000000;
+    text-shadow: 3px 3px 5px #000000, 3px 3px 5px #000000;
     text-align: center;
     margin:0px;
     margin-top:20px;
+}
+
+.ButtonAbout button{
+    margin: -40px 20px;
+
+  background: transparent;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    border: none;
+
+   
+    padding: 0.4em 0.8em;
+    font-size: 2em;
+    width:150px;
+    margin: 0px 0px 0px 0px;
+    size:200%;
 }
