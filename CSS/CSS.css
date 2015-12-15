@@ -229,8 +229,19 @@ margin-right: auto;
     margin-top:20px;
 }
 
-.ButtonAbout button{
-    margin: -40px 20px;
+.ButtonNeutral{
+    width: 200px;
+    margin-top: -105px;
+    margin-left: 400px;
+}
+
+.ButtonNeutral a{
+    text-decoration: none;
+    color: #fcd144;
+}
+.ButtonNeutral button{
+    margin: -40px -100px 0px 0px;
+    width: 100px;
 
   background: transparent;
     color: #fcd144;
