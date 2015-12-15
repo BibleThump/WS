@@ -213,9 +213,10 @@ margin-right: auto;
     border: 5px solid black;
     border-radius: 5px;
     border-color: #5d106f   ;
-    margin: 300px auto;
+    margin: 700px auto;
     height: 60px;
     width:150px;
+
 }
 
 .playForFree p{
@@ -240,8 +241,7 @@ margin-right: auto;
     color: #fcd144;
 }
 .ButtonNeutral button{
-    margin: -40px -100px 0px 0px;
-    width: 100px;
+   
 
   background: transparent;
     color: #fcd144;
@@ -256,4 +256,34 @@ margin-right: auto;
     width:150px;
     margin: 0px 0px 0px 0px;
     size:200%;
+}
+.ButtonAboutOss{
+    margin-top: -50px;
+    margin-left: 630px;
+    width: 200px;
+}
+.ButtonAboutOss a{
+    text-decoration: none;
+    color: #fcd144;
+    width: 200px;
+}
+
+.ButtonAboutOss button{
+
+  background: transparent;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    border: none;
+
+   
+   
+    font-size: 2em;
+    width:150px;
+    margin: 0px 0px 0px 0px;
+    size:200%;
+}
+#BILD{
+    margin: auto auto;
 }
