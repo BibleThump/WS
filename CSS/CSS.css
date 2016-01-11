@@ -24,6 +24,12 @@ position: absolute;
  z-index: -1;
 }
 
+#HeaderBackground2{
+position: absolute;
+ margin-top: -65px;
+ z-index: -1;
+}
+
 input{
 
 	height:30px;
@@ -74,6 +80,12 @@ span .close-sprite-bg{
 #test{
     margin-left:200px;
     margin-top:-405px;
+    /** Flytta Class knappen */
+}
+
+#test2{
+    margin-left:200px;
+    margin-top: -45px;
     /** Flytta Class knappen */
 }
 
@@ -324,3 +336,26 @@ margin-right: auto;
     margin-left: 400px;
 
    } 
+
+.ProdukterBild{
+    height: 330px;
+    width: 185px;
+
+    border: 0px solid black;
+    border-radius: 10px;
+    border-color: black;
+    margin: 100px;
+}
+
+.ProdukterBild h1{
+   width: 163px;
+   margin-top: 0px;
+    margin-left: 10px;
+    font-size: 150%;
+    font-family: Bliz-Quadrata;
+}
+.ProdukterBild p{
+    font-size: 120%;
+    width: 43px;
+    margin-left: 65px;
+}
