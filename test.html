@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sv">
+	
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="CSS/CSS.css" />
+		<style type="text/css">
+		.spell{
+			background-color: green;
+			width: 50px;
+			height: 50px;
+		}
+		.weapon{
+			background-color: yellow;
+			width: 50px;
+			height:50px;
+		}
+		.minion{
+			background-color: blue;
+			width: 50px;
+			height: 50px;
+		}
+		</style>
+	</head>	
+
+	<body>
+		<div class="minion"><p>m</p></div>
+		<div class="weapon"><p>w</p></div>
+		<div class="spell"><p>s</p></div>
+		<button onclick="changeminion()">only minions</button>
+		<button onclick="changeweapon()">only weapons</button>
+		<button onclick="changespell()">only spells</button>
+		<script src="sort.js"></script>
+	</body>
+</html>
