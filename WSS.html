@@ -66,6 +66,36 @@
   <button><a href="AboutOss.html"> About Us </a></button>
 </div>
 
+<script>
+var count = 0;
+function funktion(){
+  count += 1;
+  if (count==1){
+      document.getElementById("BOOM").src="images/win.png";
+  }
+  else if (count==2){
+      document.getElementById("BOOM").src="images/win.png";
+  }
+  else if (count==3){
+      document.getElementById("BOOM").src="images/drboom.png";
+      count = 0;
+  }
+
+}
+
+</script>
+
+
+<div class="BYTBILD">
+<img src="Images/DRBOOM.png" id="BOOM">
+</div>
+<div class="Frame">
+  <img src="Images/Frame.png" onmousedown="funktion()">
+
+</div>
+
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a id="Lank" href="https://us.battle.net/account/download/?show=hearthstone&style=hearthstone" target="_blank">
 <div class="playForFree">
@@ -73,6 +103,8 @@
 
 </div> 
 </a>
+
+<img src=""
 
 
 
