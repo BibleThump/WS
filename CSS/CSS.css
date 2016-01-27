@@ -1,0 +1,441 @@
+body{
+
+
+
+
+}
+
+.Header{
+
+margin: -40px -10px auto -10px;
+background-color: #b0000;
+height: 110px;
+border-radius: 30px;
+
+border-style:solid;
+border-color: #;
+border-width:0px; 
+
+
+}
+#HeaderBackground{
+position: absolute;
+ margin-top: -422px;
+ z-index: -1;
+}
+
+#HeaderBackground2{
+position: absolute;
+ margin-top: -65px;
+ z-index: -1;
+}
+
+input{
+
+	height:30px;
+    margin-top: 15px;
+    margin-left: 0px;
+	
+	
+}
+button{
+    font-family: helvetica;
+}
+a:hover;{
+    color: white;
+}
+
+
+
+span .close-sprite-bg{
+}
+.search-search-box{
+	margin-left: 900px;
+    margin-top: 40px;
+}
+
+.serachInput{
+    margin:0px;
+}
+
+
+
+.dropdown .dropdown-menu {
+    position: absolute;
+
+   
+    top: 100%;
+    left: 0px;
+
+   
+    margin: 0;
+}
+.dropdown {
+    position: absolute;
+    display: inline-block;
+
+}
+
+
+#test{
+    margin-left:330px;
+    margin-top:-62px;
+    /** Flytta Class knappen */
+}
+
+#test2{
+    margin-left:200px;
+    margin-top: -45px;
+    /** Flytta Class knappen */
+}
+#test3{
+    margin-top: -47px;
+    margin-left:330px;
+}
+
+
+
+.dropdown .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    display: none;
+    margin: 0;
+
+
+
+    list-style: none; /** Remove list bullets */
+    width: 100%; /** Set the width to 100% of it's parent */
+    padding: 0;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+/** Button Styles **/
+.dropdown button {
+    background: transparent;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    border: none;
+
+   
+    padding: 0.4em 0.8em;
+    font-size: 2em;
+    width:150px;
+    margin: 0px 0px 0px 0px;
+    size:200%;
+
+}
+.dropdown-menu p{
+    position: static;
+    color: #FCD144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    
+    z-index: 5;
+}
+
+
+/** List Item Styles **/
+.dropdown a {
+    display: block;
+    padding: 0.2em 0.8em;
+    text-decoration: none;
+    background: #990000;
+    color: #333333;
+    font-size: 100%;
+    text-align: center;
+
+
+}
+
+
+/** List Item Hover Styles **/
+.dropdown a:hover {
+    background: #ff1a1a;
+}
+.dropdown{
+	position: absolute;
+    margin: 0px 10px 230px 500px;
+z-index: 5;
+}
+#right-screw {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    height: 13px;
+    width: 13px;
+    background: transparent url("../images/nav-right-under-screw.jpg") right top no-repeat;
+}
+#right-arrow {
+    position: absolute;
+    top: 10px;
+    right: 18px;
+    height: 61px;
+    width: 77px;
+    background: transparent url("../images/nav-right-under-arrow.jpg") right top no-repeat;
+
+}
+
+#right-screw2 {
+    position: absolute;
+    top: 30px;
+    right: 97%;
+    height: 13px;
+    width: 13px;
+    background: transparent url("../images/nav-right-under-screw.jpg") right top no-repeat;
+    -webkit-transform: rotate(130deg);
+}
+#right-arrow2 {
+    position: absolute;
+    top: 1px;
+    right: 93.2%;
+    height: 61px;
+    width: 77px;
+    background: transparent url("../images/nav-right-under-arrow.jpg") right top no-repeat;
+    -webkit-transform: rotate(180deg);
+}
+
+#Logga{
+display:block;
+margin-top: 100px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+#Lank{
+    text-decoration: none;
+   
+}
+
+
+#Display{
+    display:block;
+    width: 220px;
+    height: 60px;
+    margin: 0px auto;
+    color:black;
+    text-decoration: none;
+
+    
+
+        
+}
+
+.playForFree{
+    background: linear-gradient(to right, #961ab2, #d850e2, #961ab2);
+    border: 5px solid black;
+    border-radius: 5px;
+    border-color: #5d106f   ;
+    margin: 700px auto;
+    height: 60px;
+    width:150px;
+
+}
+
+.playForFree p{
+    color:white;
+    text-decoration: none;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 3px 3px 5px #000000, 3px 3px 5px #000000;
+    text-align: center;
+    margin:0px;
+    margin-top:20px;
+}
+
+.ButtonNeutral{
+    width: 200px;
+    margin-top: -105px;
+    margin-left: 500px;
+}
+
+.ButtonNeutral a{
+    text-decoration: none;
+    color: #fcd144;
+}
+.ButtonNeutral button{
+   
+
+  background: transparent;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    border: none;
+
+   
+    padding: 0.4em 0.8em;
+    font-size: 2em;
+    width:150px;
+    margin: 0px 0px 0px 0px;
+    size:200%;
+}
+.ButtonAboutOss{
+    margin-top: -50px;
+    margin-left: 700px;
+    width: 200px;
+}
+.ButtonAboutOss a{
+    text-decoration: none;
+    color: #fcd144;
+    width: 200px;
+}
+
+.ButtonAboutOss button{
+
+  background: transparent;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    border: none;
+
+   
+   
+    font-size: 2em;
+    width:150px;
+    margin: 0px 0px 0px 0px;
+    size:200%;
+}
+#BILD{
+    margin: auto 290px;
+
+}
+
+
+.HSText h1{
+   color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+
+    text-align: center;
+
+}
+.HSText{
+    margin-top: -00px;
+}
+
+#Ribbon{
+    position: absolute;
+    margin-top: -61px;
+    margin-left: 490px;
+
+    z-index:-1;
+}
+
+#AH{
+    color: #000000;
+
+    text-align: center;
+    
+
+    font-family: helvetica;
+    font-weight: bold;
+    font-style: inherit;
+   }
+
+   #AHDIV{
+    width: 500px;
+    margin-left: 400px;
+
+   } 
+   #AHDIV{
+    margin-top: -300px;
+   }
+
+
+.Produktcontainer{
+position: absolute;
+background-color: ;
+
+margin-top: 196px;
+margin-left: 168px;
+height: 440px;
+width: 240px;
+
+border: 10px solid black;
+border-color: rgb(160,160,160);
+border-radius: 10px;
+
+z-index: 1;
+}
+
+.ProdukterBild{
+  position: absolute;
+    background-color: ;
+    height: 380px;
+    width: 185px;
+
+    border: 5px solid blue;
+    border-radius: 10px;
+    border-color: blue;
+    margin-top:  230px;
+    margin-left: 200px;
+    
+    z-index: 2;
+}
+
+.ProdukterBild h1{
+   width: 163px;
+   margin-top: 0px;
+    margin-left: 10px;
+    font-size: 150%;
+    font-family: Bliz-Quadrata;
+}
+
+
+#KOP{
+ 
+  margin-left: 40px;
+  background: linear-gradient(to right, #961ab2, #d850e2, #961ab2);
+   font-size: 120%;
+   font-style: bold;
+   text-shadow: 0px 0px 5px #000000;
+  font-family: Bliz-Quadrata;
+    border: 5px solid black;
+    border-radius: 5px;
+    border-color: #5d106f;
+    
+    height: 50px;
+    width:100px;
+
+}
+.ButtonHome{
+    width: 200px;
+    margin-top: -405px;
+    margin-left: 150px;
+}
+
+.ButtonHome a {
+    text-decoration: none;
+    color: #fcd144;
+}
+
+.ButtonHome button{
+ background: transparent;
+    color: #fcd144;
+    font-family: Bliz-Quadrata;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    border: none;
+
+   
+    padding: 0.4em 0.8em;
+    font-size: 2em;
+    width:150px;
+    margin: 0px 0px 0px 0px;
+    size:200%;
+}   
+
+
+#ButtonHome{
+    margin-top:-52px; 
+    margin-left:140px;
+}
