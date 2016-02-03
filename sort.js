@@ -11,30 +11,30 @@ function BeastialWrathBB(){
 
 function BraveArcherBV(){
 	document.getElementById("BraveArcherB").src="";
- 	document.getElementById("BraveArcherV").src="länk video";
+ 	document.getElementById("BraveArcherV").src="http://media-hearth.cursecdn.com/goldCards/22/310/22310.webm";
 }
 function BraveArcherBB(){
-	document.getElementById("BRaveArcherB").src="länk bild";
+	document.getElementById("BRaveArcherB").src="http://media-hearth.cursecdn.com/avatars/252/386/22453.png";
  	document.getElementById("BraveArcherV").src="";
 }
 
 
 function GlaivezookaBV(){
 	document.getElementById("GlaivezookaB").src="";
- 	document.getElementById("GlaivezookaV").src="länk video";
+ 	document.getElementById("GlaivezookaV").src="http://media-hearth.cursecdn.com/goldCards/12/267/12267.webm";
 }
 function GlaivezookaBB(){
-	document.getElementById("GlaivezookaB").src="länk bild";
+	document.getElementById("GlaivezookaB").src="http://media-hearth.cursecdn.com/avatars/148/894/12267.png";
  	document.getElementById("GlaivezookaV").src="";
 }
 
 
 function BearTrapBV(){
 	document.getElementById("BearTrapB").src="";
- 	document.getElementById("BearTrapV").src="länk video";
+ 	document.getElementById("BearTrapV").src="http://media-hearth.cursecdn.com/goldCards/22/364/22364.webm";
 }
 function BearTrapBB(){
-	document.getElementById("BearTrapB").src="länk bild";
+	document.getElementById("BearTrapB").src="http://media-hearth.cursecdn.com/avatars/252/388/22364.png";
  	document.getElementById("BearTrapV").src="";
 }
 
@@ -289,13 +289,43 @@ function SavannahHighmaneBB(){
 }
 
 
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="länk video";
+function GladiatorsLongbowBV(){
+	document.getElementById("GladiatorsLongbowB").src="";
+ 	document.getElementById("GladiatorsLongbowV").src="länk video";
 }
-function (){
-	document.getElementById("").src="länk bild";
- 	document.getElementById("").src="";
+function GladiatorsLongbowBB(){
+	document.getElementById("GladiatorsLongbowB").src="länk bild";
+ 	document.getElementById("GladiatorsLongbowV").src="";
+}
+
+
+function AcidmawBV(){
+		document.getElementById("AcidmawB").src="";
+	 	document.getElementById("AcidmawV").src="länk video";
+}
+function AcidmawBB(){
+	document.getElementById("AcidmawB").src="länk bild";
+ 	document.getElementById("AcidmawV").src="";
+}
+
+
+function GahzrillaBV(){
+	document.getElementById("GahzrillaB").src="";
+ 	document.getElementById("GahzrillaV").src="länk video";
+}
+function GahzrillaBB(){
+	document.getElementById("GahzrillaB").src="länk bild";
+ 	document.getElementById("GahzrillaV").src="";
+}
+
+
+function  KingKrushBV(){
+	document.getElementById("KingKrushB").src="";
+ 	document.getElementById("KingKrushV").src="länk video";
+}
+function KingKrushBB(){
+	document.getElementById("KingKrushB").src="länk bild";
+ 	document.getElementById("KingKrushV").src="";
 }
 
 
