@@ -1,19 +1,8 @@
-function changeweapon() {
-	document.getElementsByClassName("weapon")[0].style.display="inline";
-	document.getElementsByClassName("minion")[0].style.display="none";
-	document.getElementsByClassName("spell")[0].style.display="none";
+function BeastialWrathCV(){
+	document.getElementById("BeastialWrathB").src="";
+ 	document.getElementById("BeastialWrathV").src="http://media-hearth.cursecdn.com/goldCards/0/638/638.webm";
 }
-function changeminion() {
-	document.getElementsByClassName("weapon")[0].style.display="none";
-	document.getElementsByClassName("minion")[0].style.display="inline";
-	document.getElementsByClassName("spell")[0].style.display="none";
+function BeastialWrathCB(){
+	document.getElementById("BeastialWrathB").src="http://media-hearth.cursecdn.com/avatars/148/421/304.png";
+ 	document.getElementById("BeastialWrathV").src="";
 }
-function changespell() {
-	document.getElementsByClassName("weapon")[0].style.display="none";
-	document.getElementsByClassName("minion")[0].style.display="none";
-	document.getElementsByClassName("spell")[0].style.display="inline";
-}
-function changeall() {
-	document.getElementsByClassName("weapon")[0].style.display="inline";
-	document.getElementsByClassName("minion")[0].style.display="inline";
-	document.getElementsByClassName("spell")[0].style.display="inline";
