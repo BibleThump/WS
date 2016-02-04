@@ -334,131 +334,321 @@ function KingKrushBB(){
 
 function  ArcaneBlastBV(){
 	document.getElementById("ArcaneBlastB").src="";
- 	document.getElementById("ArcaneBlastV").src="video";
+ 	document.getElementById("ArcaneBlastV").src="http://media-hearth.cursecdn.com/goldCards/22/358/22358.webm";
 }
 function ArcaneBlastBB(){
-	document.getElementById("ArcaneBlastB").src="bild";
+	document.getElementById("ArcaneBlastB").src="http://media-hearth.cursecdn.com/avatars/252/459/22358.png";
  	document.getElementById("ArcaneBlastV").src="";
 }
 
 
 function  IceLanceBV(){
 	document.getElementById("IceLanceB").src="";
- 	document.getElementById("IceLanceV").src="video";
+ 	document.getElementById("IceLanceV").src="http://media-hearth.cursecdn.com/goldCards/0/188/188.webm";
 }
 function IceLanceBB(){
-	document.getElementById("IceLanceB").src="bild";
+	document.getElementById("IceLanceB").src="http://media-hearth.cursecdn.com/avatars/147/432/188.png";
  	document.getElementById("IceLanceV").src="";
 }
 
 
 function ManaWyrmBV(){
 	document.getElementById("ManaWyrmB").src="";
- 	document.getElementById("ManaWyrmV").src="video";
+ 	document.getElementById("ManaWyrmV").src="http://media-hearth.cursecdn.com/goldCards/0/263/263.webm";
 }
 function ManaWyrmBB(){
-	document.getElementById("ManaWyrmB").src="bild";
+	document.getElementById("ManaWyrmB").src="http://media-hearth.cursecdn.com/avatars/149/484/263.png";
  	document.getElementById("ManaWyrmV").src="";
 }
 
 
 function FlameCannonBV(){
 	document.getElementById("FlameCannonB").src="";
- 	document.getElementById("FlameCannonV").src="video";
+ 	document.getElementById("FlameCannonV").src="http://media-hearth.cursecdn.com/goldCards/12/192/12192.webm";
 }
 function FlameCannonBB(){
-	document.getElementById("FlameCannonB").src="bild";
+	document.getElementById("FlameCannonB").src="http://media-hearth.cursecdn.com/avatars/198/226/12192.png";
  	document.getElementById("FlameCannonV").src="";
 }
 
 
 function UnstablePortalBV(){
 	document.getElementById("UnstablePortalB").src="";
- 	document.getElementById("UnstablePortalV").src="video";
+ 	document.getElementById("UnstablePortalV").src="http://media-hearth.cursecdn.com/goldCards/12/178/12178.webm";
 }
 function UnstablePortalBB(){
-	document.getElementById("UnstablePortalB").src="bild";
+	document.getElementById("UnstablePortalB").src="http://media-hearth.cursecdn.com/avatars/148/747/12178.png";
  	document.getElementById("UnstablePortalV").src="";
 }
 
 
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
+function FallenHeroBV(){
+	document.getElementById("FallenHeroB").src="";
+ 	document.getElementById("FallenHeroV").src="video";
 }
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
-}
-
-
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
-}
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
+function FallenHeroBB(){
+	document.getElementById("FallenHeroB").src="bild";
+ 	document.getElementById("FallenHeroV").src="";
 }
 
 
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
+function SnowchuggerBV(){
+	document.getElementById("SnowchuggerB").src="";
+ 	document.getElementById("SnowchuggerV").src="video";
 }
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
-}
-
-
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
-}
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
+function SnowchuggerBB(){
+	document.getElementById("SnowchuggerB").src="bild";
+ 	document.getElementById("SnowchuggerV").src="";
 }
 
 
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
+function SorcerersApprentinceBV(){
+	document.getElementById("SorcerersApprentinceB").src="";
+ 	document.getElementById("SorcerersApprentinceV").src="video";
 }
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
-}
-
-
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
-}
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
+function SorcerersApprentinceBB(){
+	document.getElementById("SorcerersApprentinceB").src="bild";
+ 	document.getElementById("SorcerersApprentinceV").src="";
 }
 
 
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
+function CounterspellBV(){
+	document.getElementById("CounterspellB").src="";
+ 	document.getElementById("CounterspellV").src="video";
 }
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
+function CounterspellBB(){
+	document.getElementById("CounterspellB").src="bild";
+ 	document.getElementById("CounterspellV").src="";
 }
 
 
-function (){
-	document.getElementById("").src="";
- 	document.getElementById("").src="video";
+function EffigyBV(){
+	document.getElementById("EffigyB").src="";
+ 	document.getElementById("EffigyV").src="video";
 }
-function (){
-	document.getElementById("").src="bild";
- 	document.getElementById("").src="";
+function EffigyBB(){
+	document.getElementById("EffigyB").src="bild";
+ 	document.getElementById("EffigyV").src="";
+}
+
+
+function IceBarrierBV(){
+	document.getElementById("IceBarrierB").src="";
+ 	document.getElementById("IceBarrierV").src="video";
+}
+function IceBarrierBB(){
+	document.getElementById("IceBarrierB").src="bild";
+ 	document.getElementById("IceBarrierV").src="";
+}
+
+
+function IceBlockBV(){
+	document.getElementById("IceBlockB").src="";
+ 	document.getElementById("IceBlockV").src="video";
+}
+function IceBlockBB(){
+	document.getElementById("IceBlockB").src="bild";
+ 	document.getElementById("IceBlockV").src="";
+}
+
+
+function MirrorEntityBV(){
+	document.getElementById("MirrorEntityB").src="";
+ 	document.getElementById("MirrorEntityV").src="video";
+}
+function MirrorEntityBB(){
+	document.getElementById("MirrorEntityB").src="bild";
+ 	document.getElementById("MirrorEntityV").src="";
+}
+
+
+function PollymorphBoarBV(){
+	document.getElementById("PollymorphBoarB").src="";
+ 	document.getElementById("PollymorphBoarV").src="video";
+}
+function pollymorphBoarBB(){
+	document.getElementById("PollymorphBoarB").src="bild";
+ 	document.getElementById("PollymorphBoarV").src="";
+}
+
+
+function SpellbenderBB(){
+	document.getElementById("SpellbenderB").src="";
+ 	document.getElementById("SpellbenderV").src="video";
+}
+function SpellbenderBV(){
+	document.getElementById("SpellbenderB").src="bild";
+ 	document.getElementById("SpellbenderV").src="";
+}
+
+
+function VaporizeBV(){
+	document.getElementById("VaporizeB").src="";
+ 	document.getElementById("VaporizeV").src="video";
+}
+function VaporizeBB(){
+	document.getElementById("VaporizeB").src="bild";
+ 	document.getElementById("VaporizeV").src="";
+}
+
+
+function KirinTorMageBV(){
+	document.getElementById("KirinTorMageB").src="";
+ 	document.getElementById("KirinTorMageV").src="video";
+}
+function KirinTorMageBB(){
+	document.getElementById("KirinTorMageB").src="bild";
+ 	document.getElementById("KirinTorMageV").src="";
+}
+
+
+function SootSpewerBV(){
+	document.getElementById("SootSpewerB").src="";
+ 	document.getElementById("SootSpewerV").src="video";
+}
+function SootSpewerBB(){
+	document.getElementById("SootSpewerB").src="bild";
+ 	document.getElementById("SootSpewerV").src="";
+}
+
+
+function SpellslingerBV(){
+	document.getElementById("SpellslingerB").src="";
+ 	document.getElementById("SpellslingerV").src="video";
+}
+function SpellslingerBB(){
+	document.getElementById("SpellslingerB").src="bild";
+ 	document.getElementById("SpellslingerV").src="";
+}
+
+
+function ConeOfColdBV(){
+	document.getElementById("ConeOfColdB").src="";
+ 	document.getElementById("ConeOfColdV").src="video";
+}
+function ConeOfColdBB(){
+	document.getElementById("ConeOfColdB").src="bild";
+ 	document.getElementById("ConeOfColdV").src="";
+}
+
+
+function EchoOfMedivhBV(){
+	document.getElementById("EchoOfMedivhB").src="";
+ 	document.getElementById("EchoOfMedivhV").src="video";
+}
+function EchoOfMedivhBB(){
+	document.getElementById("EchoOfMedivhB").src="bild";
+ 	document.getElementById("EchoOfMedivhV").src="";
+}
+
+
+function DalaranAspirantBV(){
+	document.getElementById("DalaranAspirantB").src="";
+ 	document.getElementById("DalaranAspirantV").src="video";
+}
+function DalaranAspirantBB(){
+	document.getElementById("DalaranAspirantB").src="bild";
+ 	document.getElementById("DalaranAspirantV").src="";
+}
+
+
+function EtherealArcanistBV(){
+	document.getElementById("EtherealArcanistB").src="";
+ 	document.getElementById("EtherealArcanistV").src="video";
+}
+function EtherealArcanistBB(){
+	document.getElementById("EtherealArcanistB").src="bild";
+ 	document.getElementById("EtherealArcanistV").src="";
+}
+
+
+function GoblinBlastmageBV(){
+	document.getElementById("GoblinBlastmageB").src="";
+ 	document.getElementById("GoblinBlastmageV").src="video";
+}
+function GoblinBlastmageBB(){
+	document.getElementById("GoblinBlastmageB").src="bild";
+ 	document.getElementById("GoblinBlastmageV").src="";
+}
+
+
+function WeeSpellstopperBV(){
+	document.getElementById("WeeSpellstopperB").src="";
+ 	document.getElementById("WeeSpellstopperV").src="video";
+}
+function WeeSpellstopperBB(){
+	document.getElementById("WeeSpellstopperB").src="bild";
+ 	document.getElementById("WeeSpellstopperV").src="";
+}
+
+
+function FlameLanceBV(){
+	document.getElementById("FlameLanceB").src="";
+ 	document.getElementById("FlameLanceV").src="video";
+}
+function FlameLanceBB(){
+	document.getElementById("FlameLanceB").src="bild";
+ 	document.getElementById("FlameLanceV").src="";
+}
+
+
+function BlizzardBV(){
+	document.getElementById("BlizzardB").src="";
+ 	document.getElementById("BlizzardV").src="video";
+}
+function BlizzardBB(){
+	document.getElementById("BlizzardB").src="bild";
+ 	document.getElementById("BlizzardV").src="";
+}
+
+
+function ColdarraDrakeBV(){
+	document.getElementById("ColdarraDrakeB").src="";
+ 	document.getElementById("ColdarraDrakeV").src="video";
+}
+function ColdarraDrakeBB(){
+	document.getElementById("ColdarraDrakeB").src="bild";
+ 	document.getElementById("ColdarraDrakeV").src="";
+}
+
+
+function ArchemageAntonidasBV(){
+	document.getElementById("ArchemageAntonidasB").src="";
+ 	document.getElementById("ArchemageAntonidasV").src="video";
+}
+function ArchemageAntonidasBB(){
+	document.getElementById("ArchemageAntonidasB").src="bild";
+ 	document.getElementById("ArchemageAntonidasV").src="";
+}
+
+
+function FlameLeviathanBV(){
+	document.getElementById("FlameLeviathanB").src="";
+ 	document.getElementById("FlameLeviathanV").src="video";
+}
+function FlameLeviathanBB(){
+	document.getElementById("FlameLeviathanB").src="bild";
+ 	document.getElementById("FlameLeviathanV").src="";
+}
+
+
+function RhoninBV(){
+	document.getElementById("RhoninB").src="";
+ 	document.getElementById("RhoninV").src="video";
+}
+function RhoninBB(){
+	document.getElementById("RhoninB").src="bild";
+ 	document.getElementById("RhoninV").src="";
+}
+
+
+function PyroblastBV(){
+	document.getElementById("PyroblastB").src="";
+ 	document.getElementById("PyroblastV").src="video";
+}
+function PyroblastBB(){
+	document.getElementById("PyroblastB").src="bild";
+ 	document.getElementById("PyroblastV").src="";
 }
 
 
