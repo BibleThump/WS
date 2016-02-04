@@ -1,4 +1,4 @@
-<!-- hunter -->
+//hunter
 
 function BeastialWrathBV(){
 	document.getElementById("BeastialWrathB").src="";
@@ -332,7 +332,7 @@ function KingKrushBB(){
 
 
 
-<!--mage-->
+//mage
 
 
 

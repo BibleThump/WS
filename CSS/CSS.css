@@ -515,7 +515,7 @@ z-index: 1;
 .epic{
     position: relative;
     left:30px;
-    background-color: purple;
+    background-color: #68228B;
     width: 127px;
     height: 40px;
     border:solid;
@@ -528,7 +528,7 @@ z-index: 1;
     position: relative;
     left:30px;
     top:5px;
-    background-color: purple;
+    background-color: #68228B;
     width: 127px;
     height: 40px;
     border:solid;
