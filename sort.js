@@ -127,6 +127,9 @@ else if (guld=2) {
 
 	document.getElementById("FlareB").src="http://media-hearth.cursecdn.com/avatars/148/418/630.png";
  	document.getElementById("FlareV").src="";
+ 	
+	document.getElementById("FreezingTrapB").src="http://media-hearth.cursecdn.com/avatars/148/559/99.png";
+ 	document.getElementById("FreezingTrapV").src="";
 
 guld = 0;
 };
