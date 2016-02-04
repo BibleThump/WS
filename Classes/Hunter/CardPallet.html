@@ -59,20 +59,20 @@
   <div class="ButtonAboutOss">
     <button><a href="AboutOss.html"> About Us </a></button>
     <div id="character"> <!--namn och bild ändras här -->
-      <h1 id="HeroName">Hunter</h1>
+      <h1 id="HeroName" onmousedown="ChangeH()">Hunter</h1>
       <img id="hero" src="../../images/rexxar.png">
     </div>
     <div id="cbg">
       <div class="1"> <!--alla id's ändras här och funktioner -->
-        <img class="bild" onmousedown="BeastialWrathBV()" src="http://media-hearth.cursecdn.com/avatars/148/421/304.png"> 
-         <video autoplay loop onmousedown="BeastialWrathBB()" class="video"></video>
+        <img class="bild" id="BeastialWrathB" onmouseover="BeastialWrathBV()" src="http://media-hearth.cursecdn.com/avatars/148/421/304.png"> 
+         <video id="BeastialWrathV" autoplay loop onmouseout="BeastialWrathBB()" class="video"></video>
         <div onmousedown="ERROR()" class="epic"> <p class="pris">400</p> </div> 
         <div onmousedown="ERROR()" class="gepic"> <p class="pris">1600</p> </div>
       </div>
 
        <div id="a"> <!--alla id's ändras här och funktioner -->
-        <img class="bild" onmouseover="BeastialWrathBV" src="http://media-hearth.cursecdn.com/avatars/252/386/22453.png"> 
-        <video autoplay loop onmouseout="BeastialWrathBB" class="video"></video>
+        <img id="BraveArcherB" class="bild" onmouseover="BraveArcherBV" src="http://media-hearth.cursecdn.com/avatars/252/386/22453.png"> 
+        <video id="BraveArcherV" autoplay loop onmouseout="BraveArcherBB" class="video"></video>
         <div onmousedown="ERROR()" class="epic"> <p class="pris">40</p> </div> 
         <div onmousedown="ERROR()" class="gepic"> <p class="pris">400</p> </div>
       </div>
