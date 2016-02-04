@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //hunter
 var hguld = 0;
 function ChangeH(){
