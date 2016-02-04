@@ -204,7 +204,7 @@ display:block;
 margin-top: 100px;
 margin-left: auto;
 margin-right: auto;
-visibility:hidden;
+visibility:;
 }
 #Loggah{
 display:block;
@@ -239,7 +239,7 @@ visibility:hidden;
     border: 5px solid black;
     border-radius: 5px;
     border-color: #5d106f   ;
-    margin: 700px auto;
+    margin:100px auto;
     height: 60px;
     width:150px;
 
@@ -451,7 +451,10 @@ z-index: 1;
 
     margin-left: auto;
     margin-right: auto;
-    margin-top: 400px;
+    margin-top: 300px;
+}
+#BOOM{
+    margin-top: -183px;
 }
 .Frame{
     width: 857px;
@@ -459,7 +462,7 @@ z-index: 1;
 
     margin-left: auto;
     margin-right: auto;
-    margin-top: -466px;
+    margin-top: -650px;
 }
 #bg{
     position:absolute;
@@ -585,13 +588,12 @@ z-index: 1;
     border-color: #FCD144;
     box-shadow: 0px 0px 30px #000000, 0px 0px 30px #000000;
 }
-.bild{
-    position: static;
+#BeastialWrathB{
     height: 220px;
     width:150px;
     padding: 30px 30px 0px 30px;
 }
-.video{
+#BeastialWrathV{
     position: absolute;
     top:0px;
     left:-50px;
@@ -608,7 +610,6 @@ z-index: 1;
     padding: 30px 30px 0px 30px;
 }
 .epic, .epic2{
-    display: block;
     position: relative;
     left:38px;
     background-color: purple;
@@ -621,7 +622,6 @@ z-index: 1;
     box-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
 }
 .gepic, .gepic2{
-    display: block;
     position: relative;
     left:38px;
     top:5px;
@@ -722,23 +722,18 @@ z-index: 1;
     margin-top: -341px;
     margin-left: 858px;
 }
-#ERRORMEDELANDE{
-    display: none;
-    position: fixed;
-    top: 35%;
-    left: 30%;
-    width: 40%;
-    height: 30%;
-    background-color: #ffffff;
-    z-index:9;
-    border:solid;
-    border-color: grey;
-    border-radius: 6px;
+#Error{
+
 }
-#ERRORTEXT{
-    text-align: center;
-    color: red;
+#Hometext{
+    height: 200px;
+    width:800px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Palatino Linotype;
 }
-#ERRORHELP{
-    text-align: center;
+#troll{
+float: right;
+margin-top:-315px;
 }
