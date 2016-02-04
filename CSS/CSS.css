@@ -445,14 +445,102 @@ z-index: 1;
     margin-top:-52px; 
     margin-left:140px;
 }
+.BYTBILD{
+    width: 772px;
+    height: 434px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 400px;
+}
+.Frame{
+    width: 857px;
+    height: 500px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -466px;
+}
 #bg{
     position:absolute;
     right:0%;
     top:0%;
     background-color: #006600;
     width: 100%;
-    height:100%;
+    height:520%;
     z-index: -40;
+}
+#bg2{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #4d79ff;
+    width: 100%;
+    height:520%;
+    z-index: -40;
+}
+#bg3{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #ffcc00;
+    width: 100%;
+    height:520%;
+    z-index: -40;
+}
+#bg4{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #c1c1a4;
+    width: 100%;
+    height:520%;
+    z-index: -40;
+}
+#bg5{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #000066;
+    width: 100%;
+    height:520%;
+    z-index: -40;
+}
+#bg6{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #603f20;
+    width: 100%;
+    height:520%;
+    z-index: -40;
+}
+#bg7{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #3d3d29;
+    width: 100%;
+    height:520%;
+    z-index: -40;  
+}
+#bg8{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #660033;
+    width: 100%;
+    height:520%;
+    z-index: -40;  
+}
+#bg9{
+    position:absolute;
+    right:0%;
+    top:0%;
+    background-color: #800000;
+    width: 100%;
+    height:520%;
+    z-index: -40;  
 }
 #character{
     position: absolute;
@@ -481,4 +569,156 @@ z-index: 1;
     left:60px;
     width: 101px;
     height: 140px;
+}
+#cbg{
+   
+    position: absolute;
+    right: 10%;
+    left: 10%;
+    top:360px;
+    width: 80%;
+    background-color: #990000;
+    height: 2600px;
+    z-index: -3;
+    border-radius: 30px;
+    border:solid;
+    border-color: #FCD144;
+    box-shadow: 0px 0px 30px #000000, 0px 0px 30px #000000;
+}
+#BeastialWrathB{
+    height: 220px;
+    width:150px;
+    padding: 30px 30px 0px 30px;
+}
+#BeastialWrathV{
+    position: absolute;
+    top:0px;
+    left:-50px;
+    height: 250px;
+    width:180px;
+    padding: 30px 30px 0px 30px;
+}
+#BeastialWrathV5{
+    
+    top:100px;
+    left:100px;
+    height: 180px;
+    width:127px;
+    padding: 30px 30px 0px 30px;
+}
+.epic, .epic2{
+    position: relative;
+    left:38px;
+    background-color: purple;
+    width: 127px;
+    height: 40px;
+    border:solid;
+    border-width: 2px;
+    border-radius:6px;
+    border-color: #c0c0c0;
+    box-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+}
+.gepic, .gepic2{
+    position: relative;
+    left:38px;
+    top:5px;
+    background-color: purple;
+    width: 127px;
+    height: 40px;
+    border:solid;
+    border-color: #fcd144;
+    border-width: 2px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+}
+
+.pris{
+    text-align: center;
+    font-size: 20px;
+    color: #FCD144; 
+    text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
+    line-height: center;
+}
+#a{
+    width: 500px;
+    height: 300px;
+    margin-top: -340px;
+    margin-left: 222px;
+}
+#b{
+    width: 500px;
+    height: 300px;
+   margin-top: -300px;
+    margin-left: 434px;
+
+}
+#c{
+    width: 500px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 646px;
+
+}
+#d{
+   
+    width: 300px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 858px;
+
+}
+.rad1{
+    margin-top: 40px;
+    width: 1080px;
+    height: 300px;
+}
+.rad2{
+   margin-top: 40px;
+    width: 1080px;
+    height: 300px;
+}
+.rad3{
+    margin-top: 60px;
+    width: 1080px;
+    height: 300px;
+
+}
+.rad4{
+    margin-top: 60px;
+    width: 1080px;
+    height: 300px;
+}
+.rad5{
+    margin-top: 60px;
+    width: 1080px;
+    height: 300px;
+}
+.rad6{
+    margin-top: 60px;
+    width: 1080px;
+    height: 300px;
+}
+.rad7{
+    margin-top: 60px;
+    width: 1080px;
+    height: 300px;
+}
+#bild2{
+    margin-top: -341px;
+    margin-left: 222px;
+}
+#bild3{
+    margin-top: -341px;
+    margin-left: 434px;
+}
+#bild4{
+    margin-top: -341px;
+    margin-left: 646px;
+}
+#bild5{
+    margin-top: -341px;
+    margin-left: 858px;
+}
+#Error{
+
 }
