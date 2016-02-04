@@ -102,37 +102,7 @@ function ChangeH(){
 
 	document.getElementById("KingKrushB").src="";
  	document.getElementById("KingKrushV").src="http://media-hearth.cursecdn.com/avatars/148/415/194.png";
-};
-else if (guld=2) {
-	document.getElementById("BeastialWrathB").src="http://media-hearth.cursecdn.com/avatars/148/421/304.png";
- 	document.getElementById("BeastialWrathV").src="";
-
-	document.getElementById("BRaveArcherB").src="http://media-hearth.cursecdn.com/avatars/252/386/22453.png";
- 	document.getElementById("BraveArcherV").src="";
-
-	document.getElementById("GlaivezookaB").src="http://media-hearth.cursecdn.com/avatars/148/894/12267.png";
- 	document.getElementById("GlaivezookaV").src="";
-
-	document.getElementById("BearTrapB").src="http://media-hearth.cursecdn.com/avatars/252/388/22364.png";
- 	document.getElementById("BearTrapV").src="";
-
-	document.getElementById("CallpetB").src="http://media-hearth.cursecdn.com/avatars/148/791/12224.png";
- 	document.getElementById("CallPetV").src="";
-
-	document.getElementById("ExplosiveTrapB").src="http://media-hearth.cursecdn.com/avatars/148/556/344.png";
- 	document.getElementById("ExplosiveTrapV").src="";
-
-	document.getElementById("FeignDeathB").src="http://media-hearth.cursecdn.com/avatars/148/819/12238.png";
- 	document.getElementById("FeignDeathV").src="";
-
-	document.getElementById("FlareB").src="http://media-hearth.cursecdn.com/avatars/148/418/630.png";
- 	document.getElementById("FlareV").src="";
- 	
-	document.getElementById("FreezingTrapB").src="http://media-hearth.cursecdn.com/avatars/148/559/99.png";
- 	document.getElementById("FreezingTrapV").src="";
-
-guld = 0;
-};
+}
 }
 
 function BeastialWrathBV(){
