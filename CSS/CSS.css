@@ -562,12 +562,13 @@ z-index: 1;
     border-color: #FCD144;
     box-shadow: 0px 0px 30px #000000, 0px 0px 30px #000000;
 }
-#BeastialWrathB{
+.bild{
+    position: static;
     height: 220px;
     width:150px;
     padding: 30px 30px 0px 30px;
 }
-#BeastialWrathV{
+.video{
     position: absolute;
     top:0px;
     left:0px;
@@ -696,10 +697,26 @@ z-index: 1;
     margin-top: -341px;
     margin-left: 858px;
 }
-#Error{
-
+#ERRORMEDELANDE{
+    display: none;
+    position: fixed;
+    top: 35%;
+    left: 30%;
+    width: 40%;
+    height: 30%;
+    background-color: #ffffff;
+    z-index:9;
+    border:solid;
+    border-color: grey;
+    border-radius: 6px;
 }
-#Hometext{
+#ERRORTEXT{
+    text-align: center;
+    color: red;
+}
+#ERRORHELP{
+    text-align: center;
+}#Hometext{
     height: 200px;
     width:800px;
     margin-top: 100px;
