@@ -63,11 +63,16 @@
     </div>
     <div id="cbg">
       <div id="1"> <!--alla id's ändras här och funktioner -->
-        <img id="BeastialWrathB" onmousedown="BeastialWrathBV()" src="http://media-hearth.cursecdn.com/avatars/148/421/304.png"> 
-        <video autoplay loop onmousedown="BeastialWrathBB()" id="BeastialWrathV"></video>
-        <div class="epic"> <p class="pris">400</p> </div> 
-        <div class="gepic"> <p class="pris">1600</p> </div>
+        <img id="BeastialWrathB" onmouseover="BeastialWrathBV()" src="http://media-hearth.cursecdn.com/avatars/148/421/304.png"> 
+        <video autoplay loop onmouseout="BeastialWrathBB()" id="BeastialWrathV"></video>
+        <div onmousedown="ERROR()" class="epic"> <p class="pris">400</p> </div> 
+        <div onmousedown="ERROR()" class="gepic"> <p class="pris">1600</p> </div>
       </div>
+
+        <div id="ERRORMEDELANDE" onmousedown="CALMDOWN()">
+          <h1 id="ERRORTEXT">An error occurred while processing your request!</h1>
+          <p id="ERRORHELP">click the message to close.</p>
+        </div>
 
 
 

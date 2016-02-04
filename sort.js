@@ -664,3 +664,17 @@ function PyroblastBB(){
 	document.getElementById("PyroblastB").src="http://media-hearth.cursecdn.com/avatars/148/166/496.png";
  	document.getElementById("PyroblastV").src="";
 }
+
+
+
+
+
+
+
+function ERROR(){
+	document.getElementById("ERRORMEDELANDE").style.display="inline"
+}
+
+function CALMDOWN(){
+	document.getElementById("ERRORMEDELANDE").style.display="none"
+}

@@ -3,7 +3,6 @@ body{
 }
 
 .Header{
-
 margin: -40px -10px auto -10px;
 background-color: #b0000;
 height: 110px;
@@ -544,4 +543,24 @@ z-index: 1;
     color: #FCD144; 
     text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
     line-height: center;
+}
+#ERRORMEDELANDE{
+    display: none;
+    position: fixed;
+    top: 35%;
+    left: 30%;
+    width: 40%;
+    height: 30%;
+    background-color: #ffffff;
+    z-index:9;
+    border:solid;
+    border-color: grey;
+    border-radius: 6px;
+}
+#ERRORTEXT{
+    text-align: center;
+    color: red;
+}
+#ERRORHELP{
+    text-align: center;
 }
