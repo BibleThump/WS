@@ -1,4 +1,5 @@
 <!-- hunter -->
+
 function BeastialWrathBV(){
 	document.getElementById("BeastialWrathB").src="";
  	document.getElementById("BeastialWrathV").src="http://media-hearth.cursecdn.com/goldCards/0/304/304.webm";
@@ -329,7 +330,20 @@ function KingKrushBB(){
 }
 
 
+
+
 <!--mage-->
+
+
+
+
+
+
+
+
+
+
+
 
 
 function  ArcaneBlastBV(){
@@ -650,5 +664,3 @@ function PyroblastBB(){
 	document.getElementById("PyroblastB").src="http://media-hearth.cursecdn.com/avatars/148/166/496.png";
  	document.getElementById("PyroblastV").src="";
 }
-
-
