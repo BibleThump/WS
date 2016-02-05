@@ -57,8 +57,8 @@ function ChangeH(){
 	document.getElementById("DeadlyShotB").src="";
  	document.getElementById("DeadlyShotV").src="http://media-hearth.cursecdn.com/goldCards/0/239/239.webm";
 
-	document.getElementById("PowerShotB").src="";
- 	document.getElementById("PowerShotV").src="http://media-hearth.cursecdn.com/goldCards/22/384/22384.webm";
+	document.getElementById("PowershotB").src="";
+ 	document.getElementById("PowershotV").src="http://media-hearth.cursecdn.com/goldCards/22/384/22384.webm";
 
 	document.getElementById("UnleashTheHoundsB").src="";
  	document.getElementById("UnleashTheHoundsV").src="http://media-hearth.cursecdn.com/goldCards/0/317/317.webm";
@@ -100,8 +100,8 @@ function ChangeH(){
  	document.getElementById("GahzrillaV").src="http://media-hearth.cursecdn.com/goldCards/12/232/12232.webm";
 
 	document.getElementById("KingKrushB").src="";
- 	document.getElementById("KingKrushV").src="http://media-hearth.cursecdn.com/avatars/148/415/194.png";
-};
+ 	document.getElementById("KingKrushV").src="http://media-hearth.cursecdn.com/goldCards/0/194/194.webm";
+}
 else if (hguld==2) {
 	document.getElementById("BeastialWrathB").src="http://media-hearth.cursecdn.com/avatars/148/421/304.png";
  	document.getElementById("BeastialWrathV").src="";
@@ -116,7 +116,7 @@ else if (hguld==2) {
  	document.getElementById("BearTrapV").src="";
 
 	document.getElementById("CallpetB").src="http://media-hearth.cursecdn.com/avatars/148/791/12224.png";
- 	document.getElementById("CallPetV").src="";
+ 	document.getElementById("CallpetV").src="";
 
 	document.getElementById("ExplosiveTrapB").src="http://media-hearth.cursecdn.com/avatars/148/556/344.png";
  	document.getElementById("ExplosiveTrapV").src="";
@@ -157,8 +157,8 @@ else if (hguld==2) {
 	document.getElementById("DeadlyShotB").src="http://media-hearth.cursecdn.com/avatars/148/578/239.png";
  	document.getElementById("DeadlyShotV").src="";
 
-	document.getElementById("PowerShotB").src="http://media-hearth.cursecdn.com/avatars/252/380/22384.png";
- 	document.getElementById("PowerShotV").src="";
+	document.getElementById("PowershotB").src="http://media-hearth.cursecdn.com/avatars/252/380/22384.png";
+ 	document.getElementById("PowershotV").src="";
 
 	document.getElementById("UnleashTheHoundsB").src="http://media-hearth.cursecdn.com/avatars/148/406/317.png";
  	document.getElementById("UnleashTheHoundsV").src="";
@@ -204,9 +204,8 @@ else if (hguld==2) {
 
 	document.getElementById("KingKrushB").src="http://media-hearth.cursecdn.com/avatars/148/415/194.png";
  	document.getElementById("KingKrushV").src="";
-
-hguld = 0;
-};
+	hguld = 0;
+}
 }
 
 function BeastialWrathBV(){
@@ -389,13 +388,13 @@ function DeadlyShotBB(){
 }
 
 
-function PowerShotBV(){
-	document.getElementById("PowerShotB").src="";
- 	document.getElementById("PowerShotV").src="http://media-hearth.cursecdn.com/goldCards/22/384/22384.webm";
+function PowershotBV(){
+	document.getElementById("PowershotB").src="";
+ 	document.getElementById("PowershotV").src="http://media-hearth.cursecdn.com/goldCards/22/384/22384.webm";
 }
-function PowerShotBB(){
-	document.getElementById("PowerShotB").src="http://media-hearth.cursecdn.com/avatars/252/380/22384.png";
- 	document.getElementById("PowerShotV").src="";
+function PowershotBB(){
+	document.getElementById("PowershotB").src="http://media-hearth.cursecdn.com/avatars/252/380/22384.png";
+ 	document.getElementById("PowershotV").src="";
 }
 
 
@@ -564,8 +563,8 @@ function Mchange(){
 	document.getElementById("ManaWyrmB").src="";
  	document.getElementById("ManaWyrmV").src="http://media-hearth.cursecdn.com/goldCards/0/263/263.webm";
 
-	document.getElementById("FlameCannonB").src="";
- 	document.getElementById("FlameCannonV").src="http://media-hearth.cursecdn.com/goldCards/12/192/12192.webm";
+	document.getElementById("FlamecannonB").src="";
+ 	document.getElementById("FlamecannonV").src="http://media-hearth.cursecdn.com/goldCards/12/192/12192.webm";
 
 	document.getElementById("UnstablePortalB").src="";
  	document.getElementById("UnstablePortalV").src="http://media-hearth.cursecdn.com/goldCards/12/178/12178.webm";
@@ -576,8 +575,8 @@ function Mchange(){
 	document.getElementById("SnowchuggerB").src="";
  	document.getElementById("SnowchuggerV").src="http://media-hearth.cursecdn.com/goldCards/12/230/12230.webm";
 
-	document.getElementById("SorcerersApprentinceB").src="";
- 	document.getElementById("SorcerersApprentinceV").src="http://media-hearth.cursecdn.com/goldCards/0/4/4.webm";
+	document.getElementById("SorcerersApprenticeB").src="";
+ 	document.getElementById("SorcerersApprenticeV").src="http://media-hearth.cursecdn.com/goldCards/0/4/4.webm";
 
 	document.getElementById("CounterspellB").src="";
  	document.getElementById("CounterspellV").src="http://media-hearth.cursecdn.com/goldCards/0/531/531.webm";
@@ -594,8 +593,8 @@ function Mchange(){
 	document.getElementById("MirrorEntityB").src="";
  	document.getElementById("MirrorEntityV").src="http://media-hearth.cursecdn.com/goldCards/0/569/569.webm";
 
-	document.getElementById("PollymorphBoarB").src="";
- 	document.getElementById("PollymorphBoarV").src="http://media-hearth.cursecdn.com/goldCards/22/396/22396.webm";
+	document.getElementById("PolymorphBoarB").src="";
+ 	document.getElementById("PolymorphBoarV").src="http://media-hearth.cursecdn.com/goldCards/22/396/22396.webm";
 
 	document.getElementById("SpellbenderB").src="";
  	document.getElementById("SpellbenderV").src="http://media-hearth.cursecdn.com/goldCards/0/309/309.webm";
@@ -639,8 +638,8 @@ function Mchange(){
 	document.getElementById("ColdarraDrakeB").src="";
  	document.getElementById("ColdarraDrakeV").src="http://media-hearth.cursecdn.com/goldCards/22/261/22261.webm";
 
-	document.getElementById("ArchemageAntonidasB").src="";
- 	document.getElementById("ArchemageAntonidasV").src="http://media-hearth.cursecdn.com/goldCards/0/220/220.webm";
+	document.getElementById("ArchmageAntonidasB").src="";
+ 	document.getElementById("ArchmageAntonidasV").src="http://media-hearth.cursecdn.com/goldCards/0/220/220.webm";
 
 	document.getElementById("FlameLeviathanB").src="";
  	document.getElementById("FlameLeviathanV").src="http://media-hearth.cursecdn.com/goldCards/12/290/12290.webm";
@@ -651,7 +650,7 @@ function Mchange(){
 	document.getElementById("PyroblastB").src="";
  	document.getElementById("PyroblastV").src="http://media-hearth.cursecdn.com/goldCards/0/496/496.webm";
 
-	};
+	}
 	else if (mguld==2) {
 
 	document.getElementById("ArcaneBlastB").src="http://media-hearth.cursecdn.com/avatars/252/459/22358.png";
@@ -663,8 +662,8 @@ function Mchange(){
 	document.getElementById("ManaWyrmB").src="http://media-hearth.cursecdn.com/avatars/149/484/263.png";
  	document.getElementById("ManaWyrmV").src="";
 
-	document.getElementById("FlameCannonB").src="http://media-hearth.cursecdn.com/avatars/198/226/12192.png";
- 	document.getElementById("FlameCannonV").src="";
+	document.getElementById("FlamecannonB").src="http://media-hearth.cursecdn.com/avatars/198/226/12192.png";
+ 	document.getElementById("FlamecannonV").src="";
 
 	document.getElementById("UnstablePortalB").src="http://media-hearth.cursecdn.com/avatars/148/747/12178.png";
  	document.getElementById("UnstablePortalV").src="";
@@ -675,8 +674,8 @@ function Mchange(){
 	document.getElementById("SnowchuggerB").src="http://media-hearth.cursecdn.com/avatars/148/744/12230.png";
  	document.getElementById("SnowchuggerV").src="";
 
-	document.getElementById("SorcerersApprentinceB").src="http://media-hearth.cursecdn.com/avatars/148/550/4.png";
- 	document.getElementById("SorcerersApprentinceV").src="";
+	document.getElementById("SorcerersApprenticeB").src="http://media-hearth.cursecdn.com/avatars/148/550/4.png";
+ 	document.getElementById("SorcerersApprenticeV").src="";
 
 	document.getElementById("CounterspellB").src="http://media-hearth.cursecdn.com/avatars/148/175/531.png";
  	document.getElementById("CounterspellV").src="";
@@ -693,8 +692,8 @@ function Mchange(){
 	document.getElementById("MirrorEntityB").src="http://media-hearth.cursecdn.com/avatars/148/181/569.png";
  	document.getElementById("MirrorEntityV").src="";
 
-	document.getElementById("PollymorphBoarB").src="http://media-hearth.cursecdn.com/avatars/252/462/22396.png";
- 	document.getElementById("PollymorphBoarV").src="";
+	document.getElementById("PolymorphBoarB").src="http://media-hearth.cursecdn.com/avatars/252/462/22396.png";
+ 	document.getElementById("PolymorphBoarV").src="";
 
 	document.getElementById("SpellbenderB").src="http://media-hearth.cursecdn.com/avatars/149/612/309.png";
  	document.getElementById("SpellbenderV").src="";
@@ -738,8 +737,8 @@ function Mchange(){
 	document.getElementById("ColdarraDrakeB").src="http://media-hearth.cursecdn.com/avatars/252/474/22261.png";
  	document.getElementById("ColdarraDrakeV").src="";
 
-	document.getElementById("ArchemageAntonidasB").src="http://media-hearth.cursecdn.com/avatars/148/440/220.png";
- 	document.getElementById("ArchemageAntonidasV").src="";
+	document.getElementById("ArchmageAntonidasB").src="http://media-hearth.cursecdn.com/avatars/148/440/220.png";
+ 	document.getElementById("ArchmageAntonidasV").src="";
 
 	document.getElementById("FlameLeviathanB").src="http://media-hearth.cursecdn.com/avatars/148/759/12290.png";
  	document.getElementById("FlameLeviathanV").src="";
@@ -751,7 +750,7 @@ function Mchange(){
  	document.getElementById("PyroblastV").src="";
 
 		mguld=0
-	};
+	}
 }
 
 
@@ -788,13 +787,13 @@ function ManaWyrmBB(){
 }
 
 
-function FlameCannonBV(){
-	document.getElementById("FlameCannonB").src="";
- 	document.getElementById("FlameCannonV").src="http://media-hearth.cursecdn.com/goldCards/12/192/12192.webm";
+function FlamecannonBV(){
+	document.getElementById("FlamecannonB").src="";
+ 	document.getElementById("FlamecannonV").src="http://media-hearth.cursecdn.com/goldCards/12/192/12192.webm";
 }
-function FlameCannonBB(){
-	document.getElementById("FlameCannonB").src="http://media-hearth.cursecdn.com/avatars/198/226/12192.png";
- 	document.getElementById("FlameCannonV").src="";
+function FlamecannonBB(){
+	document.getElementById("FlamecannonB").src="http://media-hearth.cursecdn.com/avatars/198/226/12192.png";
+ 	document.getElementById("FlamecannonV").src="";
 }
 
 
@@ -828,13 +827,13 @@ function SnowchuggerBB(){
 }
 
 
-function SorcerersApprentinceBV(){
-	document.getElementById("SorcerersApprentinceB").src="";
- 	document.getElementById("SorcerersApprentinceV").src="http://media-hearth.cursecdn.com/goldCards/0/4/4.webm";
+function SorcerersAppretinceBV(){
+	document.getElementById("SorcerersAppretinceB").src="";
+ 	document.getElementById("SorcerersAppretinceV").src="http://media-hearth.cursecdn.com/goldCards/0/4/4.webm";
 }
-function SorcerersApprentinceBB(){
-	document.getElementById("SorcerersApprentinceB").src="http://media-hearth.cursecdn.com/avatars/148/550/4.png";
- 	document.getElementById("SorcerersApprentinceV").src="";
+function SorcerersAppretinceBB(){
+	document.getElementById("SorcerersAppretinceB").src="http://media-hearth.cursecdn.com/avatars/148/550/4.png";
+ 	document.getElementById("SorcerersAppretinceV").src="";
 }
 
 
@@ -888,13 +887,13 @@ function MirrorEntityBB(){
 }
 
 
-function PollymorphBoarBV(){
-	document.getElementById("PollymorphBoarB").src="";
- 	document.getElementById("PollymorphBoarV").src="http://media-hearth.cursecdn.com/goldCards/22/396/22396.webm";
+function PolymorphBoarBV(){
+	document.getElementById("PolymorphBoarB").src="";
+ 	document.getElementById("PolymorphBoarV").src="http://media-hearth.cursecdn.com/goldCards/22/396/22396.webm";
 }
-function pollymorphBoarBB(){
-	document.getElementById("PollymorphBoarB").src="http://media-hearth.cursecdn.com/avatars/252/462/22396.png";
- 	document.getElementById("PollymorphBoarV").src="";
+function polymorphBoarBB(){
+	document.getElementById("PolymorphBoarB").src="http://media-hearth.cursecdn.com/avatars/252/462/22396.png";
+ 	document.getElementById("PolymorphBoarV").src="";
 }
 
 
@@ -1039,13 +1038,13 @@ function ColdarraDrakeBB(){
 }
 
 
-function ArchemageAntonidasBV(){
-	document.getElementById("ArchemageAntonidasB").src="";
- 	document.getElementById("ArchemageAntonidasV").src="http://media-hearth.cursecdn.com/goldCards/0/220/220.webm";
+function ArchmageAntonidasBV(){
+	document.getElementById("ArchmageAntonidasB").src="";
+ 	document.getElementById("ArchmageAntonidasV").src="http://media-hearth.cursecdn.com/goldCards/0/220/220.webm";
 }
-function ArchemageAntonidasBB(){
-	document.getElementById("ArchemageAntonidasB").src="http://media-hearth.cursecdn.com/avatars/148/440/220.png";
- 	document.getElementById("ArchemageAntonidasV").src="";
+function ArchmageAntonidasBB(){
+	document.getElementById("ArchmageAntonidasB").src="http://media-hearth.cursecdn.com/avatars/148/440/220.png";
+ 	document.getElementById("ArchmageAntonidasV").src="";
 }
 
 
