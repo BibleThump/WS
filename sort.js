@@ -1,4 +1,7 @@
 //hunter
+
+
+
 var hguld = 0;
 function ChangeH(){
 	hguld +=1;
@@ -1084,9 +1087,9 @@ function PyroblastBB(){
 
 
 function ERROR(){
-	document.getElementById("ERRORMEDELANDE").style.display="inline"
+	document.getElementById("ERRORMEDELANDE").style.display="inline";
 }
 
 function CALMDOWN(){
-	document.getElementById("ERRORMEDELANDE").style.display="none"
+	document.getElementById("ERRORMEDELANDE").style.display="none";
 }

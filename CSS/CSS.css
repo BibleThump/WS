@@ -48,7 +48,7 @@ a:hover;{
 span .close-sprite-bg{
 }
 .search-search-box{
-	margin-left: 900px;
+	margin-left: 930px;
     margin-top: 40px;
 }
 
@@ -258,7 +258,7 @@ visibility:hidden;
 
 
 .ButtonAboutOss{
-    margin-top: -94px;
+    margin-top: -50px;
     margin-left: 510px;
     width: 200px;
 }
@@ -616,41 +616,14 @@ z-index: 1;
     text-shadow: 0px 0px 10px #000000, 0px 0px 10px #000000;
     line-height: center;
 }
-#a{
-    width: 500px;
-    height: 300px;
-    margin-top: -340px;
-    margin-left: 222px;
-}
-#b{
-    width: 500px;
-    height: 300px;
-   margin-top: -300px;
-    margin-left: 434px;
 
-}
-#c{
-    width: 500px;
-    height: 300px;
-    margin-top: -300px;
-    margin-left: 646px;
-
-}
-#d{
-   
-    width: 300px;
-    height: 300px;
-    margin-top: -300px;
-    margin-left: 858px;
-
-}
 .rad1{
     margin-top: 40px;
     width: 1080px;
     height: 300px;
 }
 .rad2{
-   margin-top: 40px;
+    margin-top: 40px;
     width: 1080px;
     height: 300px;
 }
@@ -680,19 +653,24 @@ z-index: 1;
     width: 1080px;
     height: 300px;
 }
-#bild2{
+
+.bild1{
+    margin-left: 0px;
+}
+
+.bild2{
     margin-top: -341px;
     margin-left: 222px;
 }
-#bild3{
+.bild3{
     margin-top: -341px;
     margin-left: 434px;
 }
-#bild4{
+.bild4{
     margin-top: -341px;
     margin-left: 646px;
 }
-#bild5{
+.bild5{
     margin-top: -341px;
     margin-left: 858px;
 }
